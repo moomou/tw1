@@ -1,3 +1,5 @@
 {
-  "github.com/moomou/tw2": "master"
+  "dependencies": {
+    "github.com/moomou/tw2": "master"
+  }
 }
